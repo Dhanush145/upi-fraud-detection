@@ -98,7 +98,7 @@ upi-fraud-detection/
 ### 1️⃣ Clone this repository
 
 ```
-git clone https://github.com/<your-username>/upi-fraud-detection.git
+git clone https://github.com/Dhanush145/upi-fraud-detection.git
 cd upi-fraud-detection
 ```
 
