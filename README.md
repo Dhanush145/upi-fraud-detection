@@ -168,36 +168,7 @@ Dashboard runs at:
   uvicorn main:app --host 0.0.0.0 --port 10000
   ```
 
-Public URL will look like:
 
-```
-https://upi-fraud-api.onrender.com
-```
-
----
-
-### Deploy Streamlit
-
-* New → Web Service
-* Root Directory: `streamlit`
-* Build Command:
-
-  ```
-  pip install -r requirements_streamlit.txt
-  ```
-* Start Command:
-
-  ```
-  streamlit run streamlit_app.py --server.port 10000 --server.address 0.0.0.0
-  ```
-
-Dashboard URL:
-
-```
-https://upi-fraud-dashboard.onrender.com
-```
-
----
 
 ## 📊 Model Performance
 
