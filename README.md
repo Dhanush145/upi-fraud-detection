@@ -226,17 +226,6 @@ https://upi-fraud-dashboard.onrender.com
   "merchant_category": "Shopping",
   "device_type": "Android"
 }
-```
-
----
-
-## 🛠️ Future Improvements
-
-* SHAP explainability
-* Real-time Kafka streaming
-* Database logging (PostgreSQL)
-* Authentication for API
-* Cloud ML retraining pipeline
 
 ---
 
@@ -248,23 +237,9 @@ UPI Fraud Detection • FastAPI • Streamlit • XGBoost
 
 ---
 
-## ⭐ Support
 
 If you found this project helpful, please ⭐ the repo!
 
-```
 
----
 
-# 🎉 Your README.md is now ready for GitHub!
 
-If you want:
-
-✅ a **logo for your project**  
-✅ a **diagram image instead of text**  
-✅ a **deploy badge** (“Deploy to Render”)  
-✅ **CI/CD auto-deploy workflow**  
-✅ a **LICENSE file**  
-
-Just tell me: **"add logo"**, **"add badges"**, or **"add CI/CD"**.
-```
